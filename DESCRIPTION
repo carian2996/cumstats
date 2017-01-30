@@ -1,0 +1,13 @@
+Package: cumstats
+Version: 1.0
+Date: 2017-01-13
+Title: Cumulative Descriptive Statistics
+Description: Cumulative descriptive statistics for (arithmetic, geometric,
+    harmonic) mean, median, mode, variance, skewness and kurtosis.
+Authors@R: as.person(c(
+    "Arturo Erdely <arturo.erdely@comunidad.unam.mx> [aut, cre]",
+    "Ian Castillo [aut]"
+  ))
+License: GPL-3
+Imports: stats
+RoxygenNote: 5.0.1
