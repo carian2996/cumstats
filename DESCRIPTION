@@ -11,5 +11,5 @@ Authors@R: as.person(c(
 License: GPL-3
 Imports: stats
 RoxygenNote: 5.0.1
-URL: https://github.com/jmbarrios/cumstats
-BugReports: https://github.com/jmbarrios/cumstats/issues
+URL: https://github.com/carian2996/cumstats
+BugReports: https://github.com/carian2996/cumstats/issues
